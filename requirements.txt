@@ -1,0 +1,5 @@
+Flask==3.0.2
+Flask_RESTful==0.3.10
+Pillow==10.2.0
+torch==2.2.0
+transformers==4.38.2
